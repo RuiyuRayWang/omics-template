@@ -3,6 +3,7 @@
 Template for omics data analysis.
 
 Featuring:
+
     - Multi-modal datasets
     - Multi-language
 
@@ -35,5 +36,5 @@ Featuring:
 
 ## Notes
 
-* Avoid using special characters `/\?'"()[]{}|~,.;:` in directory or file names. 
-  If you need a separator, use underscore `_` or hyphen `-`. DO NOT use space ` ` OR dot `.`!
+* Avoid using special characters `/\?'"()[]{}|~,.;:` in directory or file names.  
+  If you need a separator, use underscore `_` or hyphen `-`. DO NOT use space ` ` or dot `.`!
