@@ -4,8 +4,8 @@ Template for omics data analysis.
 
 Featuring:
 
-    - Multi-modal datasets
-    - Multi-language
+- Multi-modal datasets
+- Multi-language
 
 ## Repository Structure
 
