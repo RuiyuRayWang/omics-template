@@ -3,6 +3,11 @@ figures/*
 data/*
 outs/*
 
+# Except the README.md
+!data/README.md
+!outs/README.md
+!figures/README.md
+
 # py-gitignore-template
 
 # Byte-compiled / optimized / DLL files
