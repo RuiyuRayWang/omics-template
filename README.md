@@ -4,8 +4,9 @@ Template for omics data analysis.
 
 Featuring:
 
-- Multi-modal datasets
-- Multi-language
+- Compatibility for multi-modal datasets
+- Compatibility for Python and R - used most frequently in omics data science
+- Host your analyses documents with [Github Pages](https://pages.github.com/)
 
 ## Repository Structure
 
@@ -15,7 +16,7 @@ Featuring:
 ├── README.md
 ├── data
 |   ├-- some_data
-|   ├-- symlink_to_data_dir
+|   ├-- symlink_to_some_data
 ├── docs                # Rendered .html files
 |   ├-- index.html
 ├── figures             # Generated figures
@@ -36,5 +37,6 @@ Featuring:
 
 ## Notes
 
-* Avoid using special characters `/\?'"()[]{}|~,.;:` in directory or file names.  
-  If you need a separator, use underscore `_` or hyphen `-`. DO NOT use space ` ` or dot `.`!
+* Avoid using special characters in directory or file names.  
+  If you need a separator, use underscore `_`. DO NOT use space ` ` or dot `.`!
+  Generally, the best practice is to stick with `A-Z`, `a-z`, `0-9`, `_`.
